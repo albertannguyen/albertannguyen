@@ -1,6 +1,6 @@
-## 👋 Hello, my name is Albert Nguyen
+## 👋 Hello, my name is Albert Nguyen!
 
-I am a **Graduate Electrical Engineer at Texas A&M University (Spring 2026)** with experience in Embedded Systems Design and Firmware Development. This profile serves as a portfolio of my work in hardware and software integration, showcasing my ability to develop production-ready firmware for complex sensing applications.
+I am a **Graduate Electrical Engineer at Texas A&M University (Spring 2026)** with experience in Embedded Systems Design and Firmware Development. This profile serves as a portfolio of my work in hardware-software integration, showcasing my ability to develop production-ready firmware for complex sensing applications.
 
 ---
 
