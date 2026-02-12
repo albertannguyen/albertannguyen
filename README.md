@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hello, my name is Albert Nguyen
 
-<!--
-**albertannguyen/albertannguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Graduate Electrical Engineer at Texas A&M University (Spring 2026)** with experience in Embedded Systems Design and Firmware Development. This profile serves as a portfolio of my work in hardware and software integration, showcasing my ability to develop production-ready firmware for complex sensing applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Featured Work (How to Navigate)
+
+I recommend exploring my work in the following order:
+
+### 1. [Fukuoka Uric Acid Sensor (Production)](https://github.com/albertannguyen/fukuoka_uric_acid_sensor) 🏆
+**The Standard:** This is my most recent and technically advanced work.
+
+### 2. [Fukuoka Glucose Sensor (Prototype)](https://github.com/albertannguyen/fukuoka_glucose_sensor) 🧪
+**The Origin:** An archived proof-of-concept repository to show the history and progression of my work.
+
+---
+
+## 📫 Let's Connect
+* 🔗 [LinkedIn](https://www.linkedin.com/in/albertannguyen/)
